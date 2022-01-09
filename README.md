@@ -1,7 +1,7 @@
 # Web-Scraping-Instagram
 
 
-This code is used to automatically obtain images by web scraping Instagram with Selenium.
+This code is used to automatically obtain images by web scraping [Instagram](https://www.instagram.com/) with [Selenium](https://selenium-python.readthedocs.io/) in Python.
 
 The required input will only be a hashtag, in this case, [Clairo](https://es.wikipedia.org/wiki/Clairo) will be used as an example to show the step-by-step process, since we do not know which Instagram pages contain Clairo's images.
 
