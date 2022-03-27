@@ -9,5 +9,7 @@ In this way, the workflow will be to log into Instagram, avoid alerts, search fo
 
 ## *Video Demo*
 
+https://www.instagram.com/p/CYjnJl0hrnH/
+
 https://user-images.githubusercontent.com/64377961/148696548-7745882a-2a50-4e33-b954-9cac069b3944.mp4
 
