@@ -13,3 +13,6 @@ https://www.instagram.com/p/CYjnJl0hrnH/
 
 https://user-images.githubusercontent.com/64377961/148696548-7745882a-2a50-4e33-b954-9cac069b3944.mp4
 
+## *Original post*
+
+https://www.linkedin.com/feed/update/urn:li:activity:6886675565621895168/
